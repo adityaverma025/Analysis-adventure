@@ -1,0 +1,45 @@
+# Odisha Livestock & Poultry Analytics Dashboard
+
+## Project Overview
+This project analyzes district-wise livestock and poultry distribution across Odisha using SQL, MySQL, and Power BI. The dataset was stored in a MySQL database, queried using SQL, and visualized through an interactive Power BI dashboard.
+
+## Objectives
+- Understand SQL database creation and management
+- Practice data querying and integration with Power BI
+- Build interactive analytical dashboards
+- Explore livestock and poultry distribution trends across Odisha districts
+
+## Tools & Technologies
+- MySQL
+- SQL
+- Power BI
+- Power Query
+
+## Features
+- District-wise livestock analysis
+- Poultry population comparison
+- Interactive filters and slicers
+- KPI cards for total livestock and poultry
+- Comparative visualizations using bar and column charts
+
+## Key Insights
+- Mayurbhanj district showed the highest livestock and poultry population.
+- Coastal and northern districts displayed higher poultry concentration.
+- Significant variation exists between districts in livestock distribution.
+
+## Skills Demonstrated
+- Database management
+- SQL querying
+- Data cleaning and transformation
+- Data visualization
+- Dashboard design
+- Business intelligence workflow
+
+## Workflow
+Excel Dataset → MySQL Database → SQL Queries → Power BI Dashboard
+
+## Future Improvements
+- Add yearly trend analysis
+- Include GIS-based district mapping
+- Integrate real-time agriculture datasets
+- Add predictive analytics using Python/R
