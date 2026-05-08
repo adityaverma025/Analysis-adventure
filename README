@@ -43,3 +43,7 @@ Excel Dataset → MySQL Database → SQL Queries → Power BI Dashboard
 - Include GIS-based district mapping
 - Integrate real-time agriculture datasets
 - Add predictive analytics using Python/R
+
+## Dashboard Preview
+
+![Dashboard](screenshot.png)
